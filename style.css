@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(#de221f 0%, #1fded5 100%);
+}
+
+.recognition{
+    color: white;
+    margin-left: 30px;
+    font-family: Helvetica;
+}
+#paragraph{
+    color: white;
+    margin-left: 30px;
+}
+#familyy{
+    width: 900px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#family{
+    width: 900px;
+    margin-left: 30px;
+    margin-top: 20px; 
+}
+#family2{
+    width: 900px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+#image{
+    margin-top: 30px;
+    margin-right: 450px;
+}
+#identify{
+    margin-top: 30px;
+}
+#webcam{
+    margin-top: 10px;
+}
+#camera{
+    margin-top: 10px;
+}
